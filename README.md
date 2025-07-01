@@ -2,7 +2,7 @@
 
 Hello! I'm Nayra Soliman, a passionate backend developer with a strong foundation in Python and Django. I enjoy building scalable, efficient applications and exploring problem-solving through data structures and algorithms. As a computer science student at the Faculty of Computers and Artificial Intelligence, Damietta University, I'm constantly learning and growing.  
 
-Feel free to explore my projects, connect with me, or collaborate on exciting ideas! Let's create something amazing together! 🚀  
+Feel free to explore my projects, connect with me, or collaborate on exciting ideas! 🚀  
 
 ## 🌐 Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayra-soliman-a2a50a282/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayrasoliman42@gmail.com)  [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nayra_Soliman)
